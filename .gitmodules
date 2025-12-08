@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
-	url = git@github.com:karthikeyan-ks/ElderCare-frontend.git
+	url = https://github.com/karthikeyan-ks/ElderCare-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Yadhu121/ElderCare-backend.git
