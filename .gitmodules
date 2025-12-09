@@ -1,6 +1,7 @@
-[submodule "frontend"]
-	path = frontend
-	url = https://github.com/karthikeyan-ks/ElderCare-frontend.git
+
 [submodule "backend"]
 	path = backend
 	url = https://github.com/Yadhu121/ElderCare-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/karthikeyan-ks/ElderCare-frontend.git
