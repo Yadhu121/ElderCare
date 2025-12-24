@@ -4,3 +4,7 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/Yadhu121/ElderCare-backend.git
+[submodule "healthcore"]
+    path = app/libs/healthcore
+    url = https://github.com/albinaprasad/health-care.git
+
