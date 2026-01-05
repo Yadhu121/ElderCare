@@ -14,3 +14,6 @@
 [submodule "Model"]
 	path = Model
 	url = https://github.com/Yadhu121/ElderCare-model.git
+[submodule "trackPath"]
+	path = trackPath
+	url = https://github.com/Yadhu121/Speedfellas.git
